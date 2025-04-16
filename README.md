@@ -4,11 +4,12 @@ The goal of this project is to develop an image classification system using a Co
 ### Dataset Details 
 The dataset Animals-10 used in this project is a collection of 26,179 labeled animal images distributed across 10 categories: dog, spider, chicken, horse, butterfly, cow, squirrel, sheep, cat, and elephant. There are no missing values, and each image is associated with a label and its corresponding encoded value. The dataset is well-balanced across several classes, though some categories, such as dog and spider, contain more samples than others like elephant or cat.
 
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/cfc3cfe9-61e0-46c1-a92d-11ad809a59f3)
+
+
 And let's take a look at first photos of the whole dataset
 ![image](https://github.com/user-attachments/assets/9dc4b6b5-a9ee-4317-a7f8-fb0d50821ee6)
 
-![img_1.png](img_1.png)
 
 ### Getting Started
 
