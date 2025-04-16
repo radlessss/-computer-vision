@@ -19,7 +19,7 @@ Visit the GitHub repository, click the green “Code” button, and select “Co
 Open Google Colab in your web browser at colab.research.google.com. Sign in to your Google account if you’re not already logged in
 3. Connect to the GitHub Repository
 In the Colab interface, click “GitHub,” enter the GitHub URL, and hit the search icon
-![img_2.png](img_2.png)
+![image](https://github.com/user-attachments/assets/e9fa346b-5c9e-460e-a1e4-d9e9b7df4ee5)
 4. Open the Notebook <br />
 Start opening notebooks and running cells
 
@@ -27,13 +27,13 @@ Start opening notebooks and running cells
 **CNN Without Hyperparameter Tuning**
 
 ***CNN's Accuracy and Loss Curves***
-![img_3.png](img_3.png)
+![image](https://github.com/user-attachments/assets/c6f867c7-cd61-4d10-8bf6-b798d9a6353b)
 
 ***CNN's Predictions***
-![img_4.png](img_4.png)
+![image](https://github.com/user-attachments/assets/10ca0c8d-f3de-4e18-80c1-8aee7a4f9946)
 
 ***CNN's Confusion Matrix***
-![img_5.png](img_5.png)
+![image](https://github.com/user-attachments/assets/af630356-41d2-4d6e-b2bc-dbb3f7d9e3de)
 
 **CNN With Hyperparameter Tuning**
 
