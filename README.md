@@ -6,6 +6,7 @@ The dataset Animals-10 used in this project is a collection of 26,179 labeled an
 
 ![img.png](img.png)
 And let's take a look at first photos of the whole dataset
+![image](https://github.com/user-attachments/assets/9dc4b6b5-a9ee-4317-a7f8-fb0d50821ee6)
 
 ![img_1.png](img_1.png)
 
