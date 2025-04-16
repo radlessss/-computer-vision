@@ -10,7 +10,7 @@ The dataset Animals-10 used in this project is a collection of 26,179 labeled an
 And let's take a look at first photos of the whole dataset
 ![image](https://github.com/user-attachments/assets/9dc4b6b5-a9ee-4317-a7f8-fb0d50821ee6)
 
-
+For more details and to access the dataset, you can visit the following link: [Animals-10 Dataset on Kaggle](https://www.kaggle.com/datasets/alessiocorrado99/animals10)
 ### Getting Started
 
 1. Copy the GitHub Repository Link <br />
