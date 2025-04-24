@@ -38,14 +38,24 @@ Start opening notebooks and running cells
 **CNN With Hyperparameter Tuning**
 
 ***CNN's Accuracy and Loss Curves***
+![image](https://github.com/user-attachments/assets/7e789bb4-2ca9-43d7-a848-7270b9d8809e)
+
 ***CNN's Predictions***
+![image](https://github.com/user-attachments/assets/460ebb08-ea90-4d85-a966-01e7c899f8eb)
+
 ***CNN's Confusion Matrix***
+![image](https://github.com/user-attachments/assets/1425bdac-df47-4668-80d2-f0e77e8c8ffc)
 
 **ResNet**
 
 ***ResNet's Accuracy and Loss Curves***
+![image](https://github.com/user-attachments/assets/e713fcbb-5678-41bd-9fc2-59be82d06d7f)
+
 ***ResNet's Predictions***
+![image](https://github.com/user-attachments/assets/007e7fcb-d449-42cc-bcd2-005fc33404cd)
+
 ***ResNet's Confusion Matrix***
 
+![image](https://github.com/user-attachments/assets/85d19033-3ae2-4e6c-8f45-39f39cc8c56c)
 
 
